@@ -1,0 +1,4 @@
+interface:
+  display_name: "D0 HyperFrame"
+  short_description: "制作 D0 品牌横屏 HyperFrames 视频"
+  default_prompt: "Use $d0-hyperframe to create a D0-branded HyperFrames video."
